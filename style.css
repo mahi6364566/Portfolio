@@ -315,10 +315,10 @@ button:hover{
 	overflow: hidden;
 	text-align: center;
 }
-.box.card:hover{
-  box-shadow: 20px 20px 50px rgb(117, 230, 255);
-  background-color: #f9004d;
-  border: 1px solid #f9004d;
+.card:hover{
+  box-shadow: 5px 5px 10px rgb(117, 230, 255);
+  border: 2px solid #f9004d;
+  transition: 1s ease;
 }
 .card i{
 	font-size: 50px;
