@@ -315,6 +315,9 @@ button:hover{
 	overflow: hidden;
 	text-align: center;
 }
+.card:hover{
+  box-shadow: #f9004d;
+}
 .card i{
 	font-size: 50px;
 	display: block;
