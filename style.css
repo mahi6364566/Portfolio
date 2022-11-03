@@ -168,6 +168,13 @@ a{
   top: 6px;
   right: -140px;
 }
+.newslatter form input:last-child:hover{
+  background-color: transparent ;
+  border: 2px solid #f9004d;
+  cursor: pointer;
+  color: #f9004d;
+  transition: .2s;
+}
 
 .about{
   background-color: #050505;
