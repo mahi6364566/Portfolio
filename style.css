@@ -453,20 +453,20 @@ footer p:nth-child(2){
     .nav-bar{
       background-color: #80c9e6;
       height: 6vh;
-      width: 950px;
+      width: 100vh;
     }
 
     .nav-left{
       color: #fbfcfc;
       justify-content: space-between;
-      font-size: 12px;
+      font-size: 22px;
       left: 0;
     
     }
     .back-img{
       background-image: url('bg.jpg');
       background-repeat: no-repeat;
-      width: 300px;
+      width: 950px;
       height: 80vh;
       background-size: cover;
       opacity: 0.9;
